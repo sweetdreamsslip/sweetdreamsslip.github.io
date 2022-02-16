@@ -1,0 +1,560 @@
+{
+  "survivor-perks":{
+
+    "darksense":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "dejavu":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "hope":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "kindred":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "lightweight":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "nooneleftbehind":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "plunderersinstinct":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "premonition":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "resilience":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "slipperymeat":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "smallgame":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "spinechill":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "thisisnothappening":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "wellmakeit":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+
+  
+
+    "bond":{
+      "name": "Bond",
+      "name-br": "Vínculo",
+      "name-es": ""
+    },
+    "provethyself":{
+      "name": "Prove Thyself",
+      "name-br": "Prove-se",
+      "name-es": ""
+    },
+    "leader":{
+      "name": "Leader",
+      "name-br": "Líder",
+      "name-es": ""
+    },
+
+    "quickandquiet":{
+      "name": "Quick & Quiet",
+      "name-br": "Rápida e Silenciosa",
+      "name-es": ""
+    },
+    "sprintburst":{
+      "name": "Sprint Burst",
+      "name-br": "Arrancada Explosiva",
+      "name-es": ""
+    },
+    "adrenaline":{
+      "name": "Adrenaline",
+      "name-br": "Adrenalina",
+      "name-es": ""
+    },
+
+    "empathy":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "botanyknowledge":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "selfcare":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "ironwill":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "calmspirit":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "saboteur":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "balancedlanding":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "urbanevasion":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "streetwise":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "solesurvivor":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "objectofobsession":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "decisivestrike":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "openhanded":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "uptheante":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "aceinthehole":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "leftbehind":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "borrowedtime":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "unbreakable":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "technician":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "lithe":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "alert":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "weregonnaliveforever":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "deadhard":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "nomither":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "wakeup":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "pharmacy":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "vigil":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "tenacity":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "detectiveshunch":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "stakeout":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "dancewithme":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "windowsofopportunity":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "boilover":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "diversion":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "deliverance":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "autodidact":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "breakdown":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "aftercare":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "distortion":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "solidarity":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "poised":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "headon":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "flipflop":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "buckleup":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "mettleofman":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "bettertogether":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "fixated":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "innerstrength":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "babysitter":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "camaradie":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "secondwind":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "luckybreak":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "anymeansnecessary":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "breakout":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "offtherecord":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "redherring":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "forthepeople":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "soulguard":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "bloodpact":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "repressedaliance":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "visionary":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "desperatemeasures":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "builttolast":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "appraisal":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "deception":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "powerstruggle":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "fasttrack":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "smashhit":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "selfpreservation":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "counterforce":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "resurgence":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "blastmine":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "bitethebullet":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "flashbang":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "rookiespirit":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "clairvoyance":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "booncircleofhealing":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "boonshadowstep":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "overcome":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "correctiveaction":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "boonexponential":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+
+    "parentalguidance":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "empathicconnection":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    },
+    "boondarktheory":{
+      "name": "",
+      "name-br": "",
+      "name-es": ""
+    }
+
+  }
+
+}
